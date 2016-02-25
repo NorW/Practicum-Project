@@ -1,0 +1,1 @@
+105		 1 		| 2 	| 3 	| 4 | 5 | 6 | 7 | 8 	| 9 	| 10  1 |		c0ui0 	| f0 	| rui0 	| r | r | r | r | r 	| r 	| r2 |		r  	| r 	| r 	| r | r | r | r | r 	| r 	| rui13 |		r  	| r 	| r 	| r | r | r | r | r 	| rui0 	| rui04 |		r  	| r 	| r 	| r | r | r | r | r 	| rui0 	| rui05 |		r  	| r 	| r		| r | r | r | r | c0 	| f1 	| c1 

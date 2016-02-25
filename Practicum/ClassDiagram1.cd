@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameSystem">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAIEAAgAACIBCABAACEBABAAAEAAAAAEAIA=</HashCode>
+      <FileName>GameSystem.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_AI" />
+      <Field Name="_player" />
+      <Field Name="_map" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="HUD">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAMOIkAECBIDACFAJKYgECBAAiABEwAAhHAAAAQMEAA=</HashCode>
+      <FileName>HUD.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQGgACIAAAAGAJBSAICAAAACQQEBCAAAAEAAAAAFAAE=</HashCode>
+      <FileName>AI.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_map" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Player">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAEgAAAAACAAAgARAAAAEAAAAQAAAAAAQAACAA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Map::MapTemplate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Map.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>wECjAESUAHLAiAgCAIMExhAAAVBFTSAAJGEpAQGIAAA=</HashCode>
+      <FileName>Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tile">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAA4AAGAAACSBQQABIAAAAAAQAQECAAAAICkAAAAQA=</HashCode>
+      <FileName>Tile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JZASpCCQRT0EgACwsIEBAxsQAxAAQZIEIAAAwANKgEI=</HashCode>
+      <FileName>Unit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,13 @@
+10
+10
+		1		| 2		| 3		| 4		| 5		| 6		| 7		| 8		| 9		| 10 
+1 | 	m		| m 	| m 	| m 	| m 	| h 	| m 	| m 	| m	 	| m
+2 |		m 		| f0ui0	| h 	| h 	| m 	| h 	| h 	| h 	| h  	| m
+3 |		m  		| h 	| hui0 	| h 	| m 	| h 	| h 	| h 	| h 	| m
+4 |		m  		| h		| m 	| m 	| m 	| h 	| m 	| h 	| h 	| m
+5 |		m  		| h		| h 	| h 	| m 	| h 	| m 	| h 	| h 	| m
+6 |		m  		| m		| m 	| h 	| m 	| s 	| m 	| h		| h		| m
+7 |		m		|h		| h 	| h 	| m 	| s 	| m 	| h 	| h 	| m
+8 |		m		|h		| m 	| m 	| m 	| h 	| m 	| h 	| h 	| m
+9 |		m		|h		| h 	| h 	| h 	| h 	| m 	| f1 	| c1 	| m
+10|		m		| m 	| m 	| m 	| m 	| m 	| m 	| m 	| m	 	| m

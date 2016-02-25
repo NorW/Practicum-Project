@@ -1,0 +1,19 @@
+Main
+
+Input manager
+
+Map
+	TODO: map reconstruction
+
+Game system
+
+Menu
+	
+
+
+AI
+	
+
+Uncategorized
+	Factory ownership (probably put in map since thats where capture command is issued)
+

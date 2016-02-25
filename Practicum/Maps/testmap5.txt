@@ -1,0 +1,13 @@
+10
+10
+		1			| 2			| 3		| 4		| 5		| 6		| 7		| 8		| 9		| 10 
+1 | 	rui0		| rui0 		| rui0 	| rui0 	| rui0 	| hut0 	| rui0 	| rui0 	| rui0	 	| rui0
+2 |		rui0 		| f0ua0		| hua0 	| hua0 	| rui0 	| hut0 	| h 	| h 	| h  	| rui0
+3 |		rui0  		| hua0		| hui0 	| hua0 	| rui0 	| hut0 	| h 	| h 	| h 	| rui0
+4 |		rui0  		| hua0		| rui0 	| rui0 	| rui0 	| hut0 	| rui0 	| h 	| h 	| rui0
+5 |		rui0  		| hua0		| hua0 	| hua0 	| rui0 	| hut0 	| rui0 	| h 	| h 	| rui0
+6 |		rui0  		| rui0		| rui0 	| hua0 	| rui0 	| sut0 	| rui0 	| h		| h		| rui0
+7 |		rui0		|hua0		| hua0 	| hua0 	| rui0 	| sut0 	| rui0 	| h 	| h 	| rui0
+8 |		rui0		|hua0		| rui0 	| rui0 	| rui0 	| hut0 	| rui0 	| h 	| h 	| rui0
+9 |		rui0		|hua0		| hua0 	| hua0 	| hua0 	| hut0 	| rui0 	| f1 	| c1 	| rui0
+10|		rui0		| rui0 		| rui0 	| rui0 	| rui0 	| rui0 	| rui0 	| rui0 	| rui0	 	| rui0

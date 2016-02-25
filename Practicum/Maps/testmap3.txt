@@ -1,0 +1,9 @@
+5
+5
+
+		1		| 2		| 3		| 4		| 5		
+1 | 	c0		| r 	| r 	| r 	| r 	
+2 |		r 		| r		| rut1 	| r 	| r 	
+3 |		rut0	| r 	| hui1 	| r 	| rui0 	
+4 |		r  		| r		| rua1 	| r 	| r 	
+5 |		r  		| r		| r 	| r 	| c1 	

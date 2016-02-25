@@ -1,0 +1,21 @@
+Maps must start with the width of the map, followed by the height of the map.
+
+Valid map tiles are
+
+'c' - City
+'f' - Factory
+'r' - road
+'g' - grass
+'h' - Hill
+'m' - Mountain
+'s' - Swamp
+
+City and Factory tiles may have a default owner, which can be signified by a player id number written directly after. -1 may be used to signify the tile is unowned.
+e.g. c1 (City tile owned by player 1)
+
+The map must have at least 2 players.
+
+To specify a unit on a tile, add the character 'u', directly followed by the unit type unique character identifier and the side number.
+e.g. c1ui1 (City tile owned by player 1 with a unit type specified by 'i' owned by player 1.
+
+TODO: Map manifest

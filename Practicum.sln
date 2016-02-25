@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practicum", "Practicum\Practicum.vcxproj", "{A392DADB-6C72-4A19-BAD9-96AD3E061AD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A392DADB-6C72-4A19-BAD9-96AD3E061AD0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A392DADB-6C72-4A19-BAD9-96AD3E061AD0}.Debug|Win32.Build.0 = Debug|Win32
+		{A392DADB-6C72-4A19-BAD9-96AD3E061AD0}.Release|Win32.ActiveCfg = Release|Win32
+		{A392DADB-6C72-4A19-BAD9-96AD3E061AD0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

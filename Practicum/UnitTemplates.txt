@@ -1,0 +1,8 @@
+//Entries are stores as: unittypeID weapontype armourtype movementtype movedistance viewdistance unitcost "unit name" "texturename"
+//unitTypeID is simply a unique character used to diffrentiate units from one another.
+//Valid weapon types are: p (pistol), r (rifle), a (anti tank), and c (cannon).
+//Valid armour types are: i (infantry), l (light), h (heavy).
+//Valid movement types are: f (feet), w (wheels), t (tread).
+i p i f 3 3 100 "Infantry" "Assets/Infantry.png"
+t c l t 6 2 900 "Tank" "Assets/Tank.png"
+a a h t 6 2 300 "Anti-Tank" "Assets/Anti-Tank.png"
